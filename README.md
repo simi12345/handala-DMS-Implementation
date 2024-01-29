@@ -12,8 +12,8 @@ Training bertujuan agar semua lapisan karyawan dapat bekerja dengan baik menggun
 - Menu MnR (Maintenence and Repair) untuk divisi Estimator.
 - Menu Reporting, Invoice Adjustment untuk Manager Operational.
 ## Pengembangan sistem DMS
-Pengembangan dilakukan secara berkala, sesuai permintaan dari PT. Bunga Plum Logistik
--Contoh email sebagai berikut:
+Pengembangan dilakukan secara berkala, sesuai permintaan dari PT. Bunga Plum Logistik. Masih banyak pengembangan yang terus dilakukan, sesuai perkembangan bisnis depot bongkar muat Container di Indonesia.
+- Contoh email sebagai berikut:
 ![](images/sample1.png)
 
   
