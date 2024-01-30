@@ -7,6 +7,7 @@ Analisa kebutuhan diperlukan untuk melakukan proses _adjust_ antara proses bisni
 - Saya berdiskusi via email, serta video conferece bersama tim BA HK.
 ## Melakukan training sistem DMS
 Training bertujuan agar semua lapisan karyawan dapat bekerja dengan baik menggunakan sistem DMS.
+![](images/trainingdms.png)
 - Menu Gate In, Gate Out, Payment, Tax, serta Data Stock Container untuk divisi Customer Service.
 - Menu Container Yard 2D & 3D untuk divisi Stacker dan Operator Side Loader.
 ![](images/3DCY.png)
