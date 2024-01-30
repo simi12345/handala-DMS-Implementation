@@ -18,5 +18,13 @@ Training bertujuan agar semua lapisan karyawan dapat bekerja dengan baik menggun
 Pengembangan dilakukan secara berkala, sesuai permintaan dari PT. Bunga Plum Logistik. Masih banyak pengembangan yang terus dilakukan, sesuai perkembangan bisnis depot bongkar muat Container di Indonesia.
 - Contoh email sebagai berikut:
 ![](images/sample1.png)
+## Pengembangan berikutnya
+Saya bersama tim developer dari pusat(HK) terus melakukan pengembangan secara bertahap.
+- Mobile MNR
+Aplikasi Mobile MNR bertujuan untuk mempermudah tim surveyor dalam melakukan survey yang sebelumnya masih menggunakan kertas. Aplikasi Mobile MNR akan terintegrasi dengan DMS sehingga penginputan item kerusakan pada container dapat dilakukan dalam satu tahapan saja.
+- EDI Integration
+Integrasi EDI akan mempermudah tim Customer Service dalam penginputan detail Gate In/Gate Out. Data sudah terintegrasi dari sistem Booking Acknowledge dari OOCL, sehingga cukup di trigger dengan nomor BA detail informasinya akan muncul otomatis.
+- EService
+- TRT System
 
   
