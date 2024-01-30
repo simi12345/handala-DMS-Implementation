@@ -9,8 +9,10 @@ Analisa kebutuhan diperlukan untuk melakukan proses _adjust_ antara proses bisni
 Training bertujuan agar semua lapisan karyawan dapat bekerja dengan baik menggunakan sistem DMS.
 - Menu Gate In, Gate Out, Payment, Tax, serta Data Stock Container untuk divisi Customer Service.
 - Menu Container Yard 2D & 3D untuk divisi Stacker dan Operator Side Loader.
+![](images/3D CY.png)
 - Menu MnR (Maintenence and Repair) untuk divisi Estimator.
 - Menu Reporting, Invoice Adjustment untuk Manager Operational.
+![](images/Daily Container Stock.png)
 ## Pengembangan sistem DMS
 Pengembangan dilakukan secara berkala, sesuai permintaan dari PT. Bunga Plum Logistik. Masih banyak pengembangan yang terus dilakukan, sesuai perkembangan bisnis depot bongkar muat Container di Indonesia.
 - Contoh email sebagai berikut:
